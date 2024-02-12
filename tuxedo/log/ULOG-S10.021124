@@ -1,0 +1,803 @@
+002030.localhost.localdomain!BBL.4322.3744068032.0: 02-11-2024: client high water (0), total client (0)
+002030.localhost.localdomain!BBL.4322.3744068032.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+002030.localhost.localdomain!BBL.4322.3744068032.0: LIBTUX_CAT:262: INFO: Standard main starting
+002030.localhost.localdomain!srvTuxedoBD.4325.2647600128.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+002030.localhost.localdomain!srvTuxedoBD.4325.2647600128.0: LIBTUX_CAT:262: INFO: Standard main starting
+002030.localhost.localdomain!srvTuxedoBD.4325.2647600128.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+002138.localhost.localdomain!srvTuxedoBD.4325.2647600128.0: Servicio select_Negocio_FML Invocado
+002138.localhost.localdomain!srvTuxedoBD.4325.2647600128.0: Error Fget32(NOMBREPELI): LIBFML_CAT:4: ERROR: Field not present
+002243.localhost.localdomain!srvTuxedoBD.4325.2647600128.0: Servicio select_Negocio_FML Invocado
+002243.localhost.localdomain!srvTuxedoBD.4325.2647600128.0: Error Fget32(NOMBREPELI): LIBFML_CAT:4: ERROR: Field not present
+002510.localhost.localdomain!srvTuxedoBD.4325.2647600128.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+002513.localhost.localdomain!BBL.4322.3744068032.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+002540.localhost.localdomain!BBL.4910.3707756992.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+002540.localhost.localdomain!BBL.4910.3707756992.0: LIBTUX_CAT:262: INFO: Standard main starting
+002540.localhost.localdomain!srvTuxedoBD.4913.1184836608.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+002540.localhost.localdomain!srvTuxedoBD.4913.1184836608.0: LIBTUX_CAT:262: INFO: Standard main starting
+002540.localhost.localdomain!srvTuxedoBD.4913.1184836608.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+002542.localhost.localdomain!srvTuxedoBD.4913.1184836608.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+002545.localhost.localdomain!BBL.4910.3707756992.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+002620.localhost.localdomain!tmloadcf.5009.3728560576.-2: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+002620.localhost.localdomain!tmloadcf.5009.3728560576.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+002627.localhost.localdomain!BBL.5031.1062502848.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+002627.localhost.localdomain!BBL.5031.1062502848.0: LIBTUX_CAT:262: INFO: Standard main starting
+002627.localhost.localdomain!srvTuxedoBD.5033.2382408704.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+002627.localhost.localdomain!srvTuxedoBD.5033.2382408704.0: LIBTUX_CAT:262: INFO: Standard main starting
+002627.localhost.localdomain!srvTuxedoBD.5033.2382408704.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+002634.localhost.localdomain!srvTuxedoBD.5033.2382408704.0: Servicio select_Negocio_FML Invocado
+002634.localhost.localdomain!srvTuxedoBD.5033.2382408704.0: Error Fget32(NOMBREPELI): LIBFML_CAT:4: ERROR: Field not present
+002807.localhost.localdomain!srvTuxedoBD.5033.2382408704.0: Servicio select_Negocio_FML Invocado
+002807.localhost.localdomain!srvTuxedoBD.5033.2382408704.0: Error Fget32(NOMBREPELI): LIBFML_CAT:4: ERROR: Field not present
+002934.localhost.localdomain!srvTuxedoBD.5033.2382408704.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+002937.localhost.localdomain!BBL.5031.1062502848.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+002954.localhost.localdomain!BBL.5336.1445638592.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+002954.localhost.localdomain!BBL.5336.1445638592.0: LIBTUX_CAT:262: INFO: Standard main starting
+002954.localhost.localdomain!srvTuxedoBD.5338.2033073152.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+002954.localhost.localdomain!srvTuxedoBD.5338.2033073152.0: LIBTUX_CAT:262: INFO: Standard main starting
+002954.localhost.localdomain!srvTuxedoBD.5338.2033073152.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+002959.localhost.localdomain!srvTuxedoBD.5338.2033073152.0: Servicio select_Negocio_FML Invocado
+002959.localhost.localdomain!srvTuxedoBD.5338.2033073152.0: Buscar pelicula: [Cars]
+002959.localhost.localdomain!srvTuxedoBD.5338.2033073152.0: Conectando a la BD
+002959.localhost.localdomain!srvTuxedoBD.5338.2033073152.0:  Id de pelicula: [1]
+002959.localhost.localdomain!srvTuxedoBD.5338.2033073152.0:  nombrePeli : [Cars]
+002959.localhost.localdomain!srvTuxedoBD.5338.2033073152.0:  GENEROPELI: [Animacion]
+002959.localhost.localdomain!srvTuxedoBD.5338.2033073152.0:  DIRECTORPELI : [John Lasseter]
+002959.localhost.localdomain!srvTuxedoBD.5338.2033073152.0: Select exitoso
+003029.localhost.localdomain!srvTuxedoBD.5338.2033073152.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+003032.localhost.localdomain!BBL.5336.1445638592.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+033420.localhost.localdomain!BBL.8634.893231552.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+033420.localhost.localdomain!BBL.8634.893231552.0: LIBTUX_CAT:262: INFO: Standard main starting
+033420.localhost.localdomain!srvTuxedoBD.8637.4190055424.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+033420.localhost.localdomain!srvTuxedoBD.8637.4190055424.0: LIBTUX_CAT:262: INFO: Standard main starting
+033420.localhost.localdomain!srvTuxedoBD.8637.4190055424.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+033439.localhost.localdomain!srvTuxedoBD.8637.4190055424.0: Servicio select_Negocio_FML Invocado
+033439.localhost.localdomain!srvTuxedoBD.8637.4190055424.0: Buscar pelicula: [Dune]
+033439.localhost.localdomain!srvTuxedoBD.8637.4190055424.0: Conectando a la BD
+033439.localhost.localdomain!srvTuxedoBD.8637.4190055424.0:  Id de pelicula: [3]
+033439.localhost.localdomain!srvTuxedoBD.8637.4190055424.0:  nombrePeli : [Dune]
+033439.localhost.localdomain!srvTuxedoBD.8637.4190055424.0:  GENEROPELI: [Drama]
+033439.localhost.localdomain!srvTuxedoBD.8637.4190055424.0:  DIRECTORPELI : [Denis Villeneuve]
+033439.localhost.localdomain!srvTuxedoBD.8637.4190055424.0: Select exitoso
+033452.localhost.localdomain!srvTuxedoBD.8637.4190055424.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+033455.localhost.localdomain!BBL.8634.893231552.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+050555.localhost.localdomain!BBL.15642.749072832.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+050555.localhost.localdomain!BBL.15642.749072832.0: LIBTUX_CAT:262: INFO: Standard main starting
+050555.localhost.localdomain!srvTuxedoBD.15645.1153625088.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+050555.localhost.localdomain!srvTuxedoBD.15645.1153625088.0: LIBTUX_CAT:262: INFO: Standard main starting
+050555.localhost.localdomain!srvTuxedoBD.15645.1153625088.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+050631.localhost.localdomain!srvTuxedoBD.15645.1153625088.0: Servicio select_Negocio_FML Invocado
+050631.localhost.localdomain!srvTuxedoBD.15645.1153625088.0: Buscar pelicula: [Dune]
+050631.localhost.localdomain!srvTuxedoBD.15645.1153625088.0: Conectando a la BD
+050631.localhost.localdomain!srvTuxedoBD.15645.1153625088.0:  Id de pelicula: [3]
+050631.localhost.localdomain!srvTuxedoBD.15645.1153625088.0:  nombrePeli : [Dune]
+050631.localhost.localdomain!srvTuxedoBD.15645.1153625088.0:  GENEROPELI: [Drama]
+050631.localhost.localdomain!srvTuxedoBD.15645.1153625088.0:  DIRECTORPELI : [Denis Villeneuve]
+050631.localhost.localdomain!srvTuxedoBD.15645.1153625088.0: Select exitoso
+052256.localhost.localdomain!srvTuxedoBD.15645.1153625088.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+052259.localhost.localdomain!BBL.15642.749072832.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+053159.localhost.localdomain!BBL.17692.3606573504.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+053159.localhost.localdomain!BBL.17692.3606573504.0: LIBTUX_CAT:262: INFO: Standard main starting
+053159.localhost.localdomain!srvTuxedoBD.17695.4281793536.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+053159.localhost.localdomain!srvTuxedoBD.17695.4281793536.0: LIBTUX_CAT:262: INFO: Standard main starting
+053159.localhost.localdomain!srvTuxedoBD.17695.4281793536.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+054900.localhost.localdomain!BBL.19092.1527964096.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+054900.localhost.localdomain!BBL.19092.1527964096.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+054900.localhost.localdomain!BBL.19092.1527964096.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+054900.localhost.localdomain!BBL.19092.1527964096.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+054900.localhost.localdomain!srvTuxedoBD.19093.1426975744.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+054900.localhost.localdomain!srvTuxedoBD.19093.1426975744.0: LIBTUX_CAT:223: WARN: Duplicate server
+054900.localhost.localdomain!srvTuxedoBD.19093.1426975744.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+054948.localhost.localdomain!srvTuxedoBD.17695.4281793536.0: Servicio select_Negocio_FML Invocado
+054948.localhost.localdomain!srvTuxedoBD.17695.4281793536.0: Buscar pelicula: [Dune]
+054948.localhost.localdomain!srvTuxedoBD.17695.4281793536.0: Conectando a la BD
+054948.localhost.localdomain!srvTuxedoBD.17695.4281793536.0:  Id de pelicula: [3]
+054948.localhost.localdomain!srvTuxedoBD.17695.4281793536.0:  nombrePeli : [Dune]
+054948.localhost.localdomain!srvTuxedoBD.17695.4281793536.0:  GENEROPELI: [Drama]
+054948.localhost.localdomain!srvTuxedoBD.17695.4281793536.0:  DIRECTORPELI : [Denis Villeneuve]
+054948.localhost.localdomain!srvTuxedoBD.17695.4281793536.0: Select exitoso
+060932.localhost.localdomain!BBL.20825.390054336.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+060932.localhost.localdomain!BBL.20825.390054336.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+060932.localhost.localdomain!BBL.20825.390054336.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+060932.localhost.localdomain!BBL.20825.390054336.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+060932.localhost.localdomain!srvTuxedoBD.20826.1208331264.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+060932.localhost.localdomain!srvTuxedoBD.20826.1208331264.0: LIBTUX_CAT:223: WARN: Duplicate server
+060932.localhost.localdomain!srvTuxedoBD.20826.1208331264.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+061126.localhost.localdomain!srvTuxedoBD.17695.4281793536.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+061129.localhost.localdomain!BBL.17692.3606573504.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+061231.localhost.localdomain!BBL.21242.1774862784.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+061231.localhost.localdomain!BBL.21242.1774862784.0: LIBTUX_CAT:262: INFO: Standard main starting
+061231.localhost.localdomain!srvTuxedoBD.21245.3382131712.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+061231.localhost.localdomain!srvTuxedoBD.21245.3382131712.0: LIBTUX_CAT:262: INFO: Standard main starting
+061231.localhost.localdomain!srvTuxedoBD.21245.3382131712.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+062131.localhost.localdomain!srvTuxedoBD.21245.3382131712.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+062134.localhost.localdomain!BBL.21242.1774862784.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+062158.localhost.localdomain!BBL.22052.4233839040.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+062158.localhost.localdomain!BBL.22052.4233839040.0: LIBTUX_CAT:262: INFO: Standard main starting
+062158.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+062158.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: LIBTUX_CAT:262: INFO: Standard main starting
+062158.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+062303.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: Servicio select_Negocio_FML Invocado
+062303.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: Buscar pelicula: [Dune]
+062303.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: Conectando a la BD
+062303.localhost.localdomain!srvTuxedoBD.22055.2013957120.0:  Id de pelicula: [3]
+062303.localhost.localdomain!srvTuxedoBD.22055.2013957120.0:  nombrePeli : [Dune]
+062303.localhost.localdomain!srvTuxedoBD.22055.2013957120.0:  GENEROPELI: [Drama]
+062303.localhost.localdomain!srvTuxedoBD.22055.2013957120.0:  DIRECTORPELI : [Denis Villeneuve]
+062303.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: Select exitoso
+062550.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: Servicio insert_Negocio_FML Invocado
+062550.localhost.localdomain!srvTuxedoBD.22055.2013957120.0:  IDDIR: [7]
+062550.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: nombreDir : [Steven_Spielberg]
+062550.localhost.localdomain!srvTuxedoBD.22055.2013957120.0:  nacionalidad: [Estadounidense]
+062550.localhost.localdomain!srvTuxedoBD.22055.2013957120.0:  estudioDir : [DreamWorks]
+062550.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: Conectando a la BD
+062550.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: Insert exitoso
+062633.localhost.localdomain!srvTuxedoBD.22055.2013957120.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+062636.localhost.localdomain!BBL.22052.4233839040.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+062746.localhost.localdomain!tmloadcf.22638.2933916096.-2: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+062746.localhost.localdomain!tmloadcf.22638.2933916096.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+062803.localhost.localdomain!BBL.22667.2267251136.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+062803.localhost.localdomain!BBL.22667.2267251136.0: LIBTUX_CAT:262: INFO: Standard main starting
+062804.localhost.localdomain!srvTuxedoBD.22670.2958662656.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+062804.localhost.localdomain!srvTuxedoBD.22670.2958662656.0: LIBTUX_CAT:262: INFO: Standard main starting
+062804.localhost.localdomain!srvTuxedoBD.22670.2958662656.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+063140.localhost.localdomain!srvTuxedoBD.22670.2958662656.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+063143.localhost.localdomain!BBL.22667.2267251136.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+164914.localhost.localdomain!BBL.9153.3489898944.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+164914.localhost.localdomain!BBL.9153.3489898944.0: LIBTUX_CAT:262: INFO: Standard main starting
+164915.localhost.localdomain!srvTuxedoBD.9156.2888547328.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+164915.localhost.localdomain!srvTuxedoBD.9156.2888547328.0: LIBTUX_CAT:262: INFO: Standard main starting
+164915.localhost.localdomain!srvTuxedoBD.9156.2888547328.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+164937.localhost.localdomain!srvTuxedoBD.9156.2888547328.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+164940.localhost.localdomain!BBL.9153.3489898944.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+191313.localhost.localdomain!BBL.21643.837222848.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+191313.localhost.localdomain!BBL.21643.837222848.0: LIBTUX_CAT:262: INFO: Standard main starting
+191313.localhost.localdomain!srvTuxedoBD.21646.510782464.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+191313.localhost.localdomain!srvTuxedoBD.21646.510782464.0: LIBTUX_CAT:262: INFO: Standard main starting
+191313.localhost.localdomain!srvTuxedoBD.21646.510782464.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+191340.localhost.localdomain!srvTuxedoBD.21646.510782464.0: Servicio select_Negocio_FML Invocado
+191340.localhost.localdomain!srvTuxedoBD.21646.510782464.0: Buscar pelicula: [Dune]
+191340.localhost.localdomain!srvTuxedoBD.21646.510782464.0: Conectando a la BD
+191340.localhost.localdomain!srvTuxedoBD.21646.510782464.0:  Id de pelicula: [3]
+191340.localhost.localdomain!srvTuxedoBD.21646.510782464.0:  nombrePeli : [Dune]
+191340.localhost.localdomain!srvTuxedoBD.21646.510782464.0:  GENEROPELI: [Drama]
+191340.localhost.localdomain!srvTuxedoBD.21646.510782464.0:  DIRECTORPELI : [Denis Villeneuve]
+191340.localhost.localdomain!srvTuxedoBD.21646.510782464.0: Select exitoso
+191516.localhost.localdomain!srvTuxedoBD.21646.510782464.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+191519.localhost.localdomain!BBL.21643.837222848.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+192647.localhost.localdomain!BBL.22697.334438848.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+192647.localhost.localdomain!BBL.22697.334438848.0: LIBTUX_CAT:262: INFO: Standard main starting
+192647.localhost.localdomain!srvTuxedoBD.22700.2797919232.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+192647.localhost.localdomain!srvTuxedoBD.22700.2797919232.0: LIBTUX_CAT:262: INFO: Standard main starting
+192647.localhost.localdomain!srvTuxedoBD.22700.2797919232.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+192649.localhost.localdomain!srvTuxedoBD.22700.2797919232.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+192652.localhost.localdomain!BBL.22697.334438848.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+200519.localhost.localdomain!BBL.25810.1766011328.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+200519.localhost.localdomain!BBL.25810.1766011328.0: LIBTUX_CAT:262: INFO: Standard main starting
+200519.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+200519.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: LIBTUX_CAT:262: INFO: Standard main starting
+200519.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+200534.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: Servicio select_Negocio_FML Invocado
+200534.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: Error Fget32(NOMBREPELI): LIBFML_CAT:4: ERROR: Field not present
+200543.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: Servicio select_Negocio_FML Invocado
+200543.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: Error Fget32(NOMBREPELI): LIBFML_CAT:4: ERROR: Field not present
+201606.localhost.localdomain!BBL.26692.90005952.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+201606.localhost.localdomain!BBL.26692.90005952.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+201606.localhost.localdomain!BBL.26692.90005952.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+201606.localhost.localdomain!BBL.26692.90005952.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+201606.localhost.localdomain!srvTuxedoBD.26693.2155789312.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+201606.localhost.localdomain!srvTuxedoBD.26693.2155789312.0: LIBTUX_CAT:223: WARN: Duplicate server
+201606.localhost.localdomain!srvTuxedoBD.26693.2155789312.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+201651.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: Servicio select_Negocio_FML Invocado
+201651.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: Error Fget32(NOMBREPELI): LIBFML_CAT:4: ERROR: Field not present
+202157.localhost.localdomain!srvTuxedoBD.25813.2715937792.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+202200.localhost.localdomain!BBL.25810.1766011328.0: LIBTUX_CAT:1233: ERROR: Unable to shutdown, clients/servers still attached
+202851.localhost.localdomain!BBL.27710.3018940864.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+202851.localhost.localdomain!BBL.27710.3018940864.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+202851.localhost.localdomain!BBL.27710.3018940864.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+202851.localhost.localdomain!BBL.27710.3018940864.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+202851.localhost.localdomain!srvTuxedoBD.27711.69094400.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+202851.localhost.localdomain!srvTuxedoBD.27711.69094400.0: LIBTUX_CAT:262: INFO: Standard main starting
+202851.localhost.localdomain!srvTuxedoBD.27711.69094400.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+202904.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Servicio select_Negocio_FML Invocado
+202904.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Buscar pelicula por ID: [1]
+202904.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Conectando a la BD
+202904.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Select exitoso
+202911.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Servicio select_Negocio_FML Invocado
+202911.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Buscar pelicula por ID: [2]
+202911.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Conectando a la BD
+202911.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Select exitoso
+202914.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Servicio select_Negocio_FML Invocado
+202914.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Buscar pelicula por ID: [3]
+202914.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Conectando a la BD
+202914.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Select exitoso
+203201.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Servicio select_Negocio_FML Invocado
+203201.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Buscar pelicula por ID: [1]
+203201.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Conectando a la BD
+203201.localhost.localdomain!srvTuxedoBD.27711.69094400.0:  Id de pelicula: [1]
+203201.localhost.localdomain!srvTuxedoBD.27711.69094400.0:  nombrePeli : [Your_Name]
+203201.localhost.localdomain!srvTuxedoBD.27711.69094400.0:  DIRECTORPELI : [Makoto Shinkai]
+203201.localhost.localdomain!srvTuxedoBD.27711.69094400.0:  ESTUDIODIR: [CoMix_Wave]
+203201.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Select exitoso
+203742.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Servicio select_Negocio_FML Invocado
+203742.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Buscar pelicula por ID: [1]
+203742.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Conectando a la BD
+203742.localhost.localdomain!srvTuxedoBD.27711.69094400.0:  Id de pelicula: [1]
+203742.localhost.localdomain!srvTuxedoBD.27711.69094400.0:  nombrePeli : [Your_Name]
+203742.localhost.localdomain!srvTuxedoBD.27711.69094400.0:  DIRECTORPELI : [Makoto Shinkai]
+203742.localhost.localdomain!srvTuxedoBD.27711.69094400.0:  ESTUDIODIR: [CoMix_Wave]
+203742.localhost.localdomain!srvTuxedoBD.27711.69094400.0: Select exitoso
+205042.localhost.localdomain!srvTuxedoBD.27711.69094400.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+205045.localhost.localdomain!BBL.25810.1766011328.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+210825.localhost.localdomain!BBL.30777.2143109568.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+210825.localhost.localdomain!BBL.30777.2143109568.0: LIBTUX_CAT:262: INFO: Standard main starting
+210825.localhost.localdomain!srvTuxedoBD.30779.824617984.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+210825.localhost.localdomain!srvTuxedoBD.30779.824617984.0: LIBTUX_CAT:262: INFO: Standard main starting
+210825.localhost.localdomain!srvTuxedoBD.30779.824617984.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+210826.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Servicio select_Negocio_FML Invocado
+210826.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Buscar pelicula por ID: [1]
+210826.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Conectando a la BD
+210826.localhost.localdomain!srvTuxedoBD.30779.824617984.0:  Id de pelicula: [1]
+210826.localhost.localdomain!srvTuxedoBD.30779.824617984.0:  nombrePeli : [Your_Name]
+210826.localhost.localdomain!srvTuxedoBD.30779.824617984.0:  DIRECTORPELI : [Makoto Shinkai]
+210826.localhost.localdomain!srvTuxedoBD.30779.824617984.0:  ESTUDIODIR: [CoMix_Wave]
+210826.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Select exitoso
+210848.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Servicio select_Negocio_FML Invocado
+210848.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Buscar pelicula por ID: [2]
+210848.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Conectando a la BD
+210848.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Select exitoso
+210850.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Servicio select_Negocio_FML Invocado
+210850.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Buscar pelicula por ID: [1]
+210850.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Conectando a la BD
+210850.localhost.localdomain!srvTuxedoBD.30779.824617984.0:  Id de pelicula: [1]
+210850.localhost.localdomain!srvTuxedoBD.30779.824617984.0:  nombrePeli : [Your_Name]
+210850.localhost.localdomain!srvTuxedoBD.30779.824617984.0:  DIRECTORPELI : [Makoto Shinkai]
+210850.localhost.localdomain!srvTuxedoBD.30779.824617984.0:  ESTUDIODIR: [CoMix_Wave]
+210850.localhost.localdomain!srvTuxedoBD.30779.824617984.0: Select exitoso
+210901.localhost.localdomain!srvTuxedoBD.30779.824617984.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+210904.localhost.localdomain!BBL.30777.2143109568.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+211557.localhost.localdomain!BBL.31358.2368397760.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+211557.localhost.localdomain!BBL.31358.2368397760.0: LIBTUX_CAT:262: INFO: Standard main starting
+211557.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+211557.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: LIBTUX_CAT:262: INFO: Standard main starting
+211557.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+211603.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: Servicio select_Negocio_FML Invocado
+211603.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: Buscar pelicula por ID: [1]
+211603.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: Conectando a la BD
+211603.localhost.localdomain!srvTuxedoBD.31360.2591427584.0:  Id de pelicula: [1]
+211603.localhost.localdomain!srvTuxedoBD.31360.2591427584.0:  nombrePeli : [Your_Name]
+211603.localhost.localdomain!srvTuxedoBD.31360.2591427584.0:  DIRECTORPELI : [Makoto Shinkai]
+211603.localhost.localdomain!srvTuxedoBD.31360.2591427584.0:  ESTUDIODIR: [CoMix_Wave]
+211603.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: Select exitoso
+211817.localhost.localdomain!BBL.31572.427516352.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+211817.localhost.localdomain!BBL.31572.427516352.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+211817.localhost.localdomain!BBL.31572.427516352.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+211817.localhost.localdomain!BBL.31572.427516352.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+211817.localhost.localdomain!srvTuxedoBD.31573.1892678656.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+211817.localhost.localdomain!srvTuxedoBD.31573.1892678656.0: LIBTUX_CAT:223: WARN: Duplicate server
+211817.localhost.localdomain!srvTuxedoBD.31573.1892678656.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+211827.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: Servicio select_Negocio_FML Invocado
+211827.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: Buscar pelicula por ID: [1]
+211827.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: Conectando a la BD
+211827.localhost.localdomain!srvTuxedoBD.31360.2591427584.0:  Id de pelicula: [1]
+211827.localhost.localdomain!srvTuxedoBD.31360.2591427584.0:  nombrePeli : [Your_Name]
+211827.localhost.localdomain!srvTuxedoBD.31360.2591427584.0:  DIRECTORPELI : [Makoto Shinkai]
+211827.localhost.localdomain!srvTuxedoBD.31360.2591427584.0:  ESTUDIODIR: [CoMix_Wave]
+211827.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: Select exitoso
+211904.localhost.localdomain!srvTuxedoBD.31360.2591427584.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+211907.localhost.localdomain!BBL.31358.2368397760.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+212912.localhost.localdomain!BBL.32452.2069574080.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+212912.localhost.localdomain!BBL.32452.2069574080.0: LIBTUX_CAT:262: INFO: Standard main starting
+212912.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+212912.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: LIBTUX_CAT:262: INFO: Standard main starting
+212912.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+212921.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+212921.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+212921.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+212921.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+212921.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+212921.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+212921.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+212921.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+212922.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+212922.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+212922.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+212922.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+212922.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+212922.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+212922.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+212922.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+212935.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+212935.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+212935.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+212935.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+212935.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+212935.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+212935.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+212935.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+212936.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+212936.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+212936.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+212936.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+212936.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+212936.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+212936.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+212936.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+213110.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+213110.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+213110.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+213110.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+213110.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+213110.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+213110.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+213110.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+213125.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+213125.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+213125.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+213125.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+213125.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+213125.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+213125.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+213125.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+214732.localhost.localdomain!BBL.1489.1799586240.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+214732.localhost.localdomain!BBL.1489.1799586240.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+214732.localhost.localdomain!BBL.1489.1799586240.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+214732.localhost.localdomain!BBL.1489.1799586240.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+214732.localhost.localdomain!srvTuxedoBD.1490.3716934656.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+214732.localhost.localdomain!srvTuxedoBD.1490.3716934656.0: LIBTUX_CAT:223: WARN: Duplicate server
+214732.localhost.localdomain!srvTuxedoBD.1490.3716934656.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+214956.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+214956.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+214956.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+214956.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+214956.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+214956.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+214956.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+214956.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+214957.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+214959.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+215005.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+215432.localhost.localdomain!BBL.2069.2238321088.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+215432.localhost.localdomain!BBL.2069.2238321088.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+215432.localhost.localdomain!BBL.2069.2238321088.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+215432.localhost.localdomain!BBL.2069.2238321088.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+215432.localhost.localdomain!srvTuxedoBD.2071.483585024.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215432.localhost.localdomain!srvTuxedoBD.2071.483585024.0: LIBTUX_CAT:223: WARN: Duplicate server
+215432.localhost.localdomain!srvTuxedoBD.2071.483585024.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+215438.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+215438.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+215438.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+215438.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+215438.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+215438.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+215438.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+215438.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+215443.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+220010.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+220010.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+220010.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+220010.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+220010.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+220010.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+220010.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+220010.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+220013.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Servicio select_Negocio_FML Invocado
+220013.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Buscar pelicula por ID: [1]
+220013.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Conectando a la BD
+220013.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  Id de pelicula: [1]
+220013.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  nombrePeli : [Your_Name]
+220013.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  DIRECTORPELI : [Makoto Shinkai]
+220013.localhost.localdomain!srvTuxedoBD.32457.3204226048.0:  ESTUDIODIR: [CoMix_Wave]
+220013.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: Select exitoso
+220146.localhost.localdomain!srvTuxedoBD.32457.3204226048.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+220149.localhost.localdomain!BBL.32452.2069574080.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+221045.localhost.localdomain!BBL.3754.327680448.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+221045.localhost.localdomain!BBL.3754.327680448.0: LIBTUX_CAT:262: INFO: Standard main starting
+221045.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+221045.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: LIBTUX_CAT:262: INFO: Standard main starting
+221045.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+221050.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: Servicio select_Negocio_FML Invocado
+221050.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: Buscar pelicula por ID: [2]
+221050.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: Conectando a la BD
+221050.localhost.localdomain!srvTuxedoBD.3757.4187536384.0:  Id de pelicula: [2]
+221050.localhost.localdomain!srvTuxedoBD.3757.4187536384.0:  nombrePeli : [Avatar_2]
+221050.localhost.localdomain!srvTuxedoBD.3757.4187536384.0:  DIRECTORPELI : [James Cameron]
+221050.localhost.localdomain!srvTuxedoBD.3757.4187536384.0:  ESTUDIODIR: [Disney]
+221050.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: Select exitoso
+221055.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: Servicio select_Negocio_FML Invocado
+221055.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: Buscar pelicula por ID: [2]
+221055.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: Conectando a la BD
+221055.localhost.localdomain!srvTuxedoBD.3757.4187536384.0:  Id de pelicula: [2]
+221055.localhost.localdomain!srvTuxedoBD.3757.4187536384.0:  nombrePeli : [Avatar_2]
+221055.localhost.localdomain!srvTuxedoBD.3757.4187536384.0:  DIRECTORPELI : [James Cameron]
+221055.localhost.localdomain!srvTuxedoBD.3757.4187536384.0:  ESTUDIODIR: [Disney]
+221055.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: Select exitoso
+221108.localhost.localdomain!srvTuxedoBD.3757.4187536384.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+221111.localhost.localdomain!BBL.3754.327680448.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+221751.localhost.localdomain!BBL.4285.2076393920.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+221751.localhost.localdomain!BBL.4285.2076393920.0: LIBTUX_CAT:262: INFO: Standard main starting
+221751.localhost.localdomain!srvTuxedoBD.4288.708611072.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+221751.localhost.localdomain!srvTuxedoBD.4288.708611072.0: LIBTUX_CAT:262: INFO: Standard main starting
+221751.localhost.localdomain!srvTuxedoBD.4288.708611072.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+223235.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223235.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223235.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223235.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223235.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223235.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223235.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223235.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223251.localhost.localdomain!BBL.5481.1916293568.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+223251.localhost.localdomain!BBL.5481.1916293568.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+223251.localhost.localdomain!BBL.5481.1916293568.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+223251.localhost.localdomain!BBL.5481.1916293568.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+223251.localhost.localdomain!srvTuxedoBD.5482.1222016000.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+223251.localhost.localdomain!srvTuxedoBD.5482.1222016000.0: LIBTUX_CAT:223: WARN: Duplicate server
+223251.localhost.localdomain!srvTuxedoBD.5482.1222016000.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+223259.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223259.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223259.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223259.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223259.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223259.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223259.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223259.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223314.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223314.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223314.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223314.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223314.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223314.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223314.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223314.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223335.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223335.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [2]
+223335.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223335.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [2]
+223335.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Avatar_2]
+223335.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [James_Cameron]
+223335.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Disney]
+223335.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223342.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223342.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [4]
+223342.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223342.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [4]
+223342.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Cars]
+223342.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [John_Lasseter]
+223342.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Pixar]
+223342.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223347.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223347.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [4]
+223347.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223347.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [4]
+223347.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Cars]
+223347.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [John_Lasseter]
+223347.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Pixar]
+223347.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223437.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223437.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [4]
+223437.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223437.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [4]
+223437.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Cars]
+223437.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [John_Lasseter]
+223437.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Pixar]
+223437.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223846.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223846.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223846.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223846.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223846.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223846.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223846.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223846.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223850.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223851.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223851.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223851.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223851.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223851.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223851.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223851.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223851.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223853.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223853.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223853.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223853.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223853.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223853.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223853.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223853.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223856.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223856.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223856.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223856.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223856.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223856.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223856.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223856.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223857.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223857.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+223857.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223857.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+223857.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+223857.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+223857.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+223857.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+223901.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+223901.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [2]
+223901.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+223901.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [2]
+223901.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Avatar_2]
+223901.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [James_Cameron]
+223901.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Disney]
+223901.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+224020.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+224020.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+224020.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+224020.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+224020.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+224020.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+224020.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+224020.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+224130.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+224130.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+224130.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+224130.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+224130.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+224130.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+224130.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+224130.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+224131.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+224342.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+224342.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+224342.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+224342.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+224342.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+224342.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+224342.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+224342.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+225339.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+225339.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+225339.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+225339.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+225339.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+225339.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+225339.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+225339.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+231005.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+231005.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+231005.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+231005.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+231005.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+231005.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+231005.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+231005.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+231011.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+231011.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [2]
+231011.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+231011.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [2]
+231011.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Avatar_2]
+231011.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [James_Cameron]
+231011.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Disney]
+231011.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+231233.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+231233.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [2]
+231233.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+231233.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [2]
+231233.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Avatar_2]
+231233.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [James_Cameron]
+231233.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Disney]
+231233.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+231235.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+231235.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [3]
+231235.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+231235.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [3]
+231235.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Oppenheimer]
+231235.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Christopher_Nolan]
+231235.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Universal]
+231235.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+231238.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+231238.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [4]
+231238.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+231238.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [4]
+231238.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Cars]
+231238.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [John_Lasseter]
+231238.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Pixar]
+231238.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+231321.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+231321.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [1]
+231321.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+231321.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [1]
+231321.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Your_Name]
+231321.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Makoto_Shinkai]
+231321.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [CoMix_Wave]
+231321.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+231324.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Servicio select_Negocio_FML Invocado
+231324.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Buscar pelicula por ID: [3]
+231324.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Conectando a la BD
+231324.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  Id de pelicula: [3]
+231324.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  nombrePeli : [Oppenheimer]
+231324.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  DIRECTORPELI : [Christopher_Nolan]
+231324.localhost.localdomain!srvTuxedoBD.4288.708611072.0:  ESTUDIODIR: [Universal]
+231324.localhost.localdomain!srvTuxedoBD.4288.708611072.0: Select exitoso
+232133.localhost.localdomain!srvTuxedoBD.4288.708611072.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+232136.localhost.localdomain!BBL.4285.2076393920.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+233604.localhost.localdomain!BBL.10311.3259728320.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+233604.localhost.localdomain!BBL.10311.3259728320.0: LIBTUX_CAT:262: INFO: Standard main starting
+233604.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+233604.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: LIBTUX_CAT:262: INFO: Standard main starting
+233604.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+233615.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Servicio select_Negocio_FML Invocado
+233615.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Buscar pelicula por ID: [1]
+233615.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Conectando a la BD
+233615.localhost.localdomain!srvTuxedoBD.10314.1936731136.0:  Id de pelicula: [1]
+233615.localhost.localdomain!srvTuxedoBD.10314.1936731136.0:  nombrePeli : [Your_Name]
+233615.localhost.localdomain!srvTuxedoBD.10314.1936731136.0:  DIRECTORPELI : [Makoto_Shinkai]
+233615.localhost.localdomain!srvTuxedoBD.10314.1936731136.0:  ESTUDIODIR: [CoMix_Wave]
+233615.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Select exitoso
+233619.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Servicio select_Negocio_FML Invocado
+233619.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Buscar pelicula por ID: [6]
+233619.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Conectando a la BD
+233619.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Select exitoso
+233621.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Servicio select_Negocio_FML Invocado
+233621.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Buscar pelicula por ID: [5]
+233621.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Conectando a la BD
+233621.localhost.localdomain!srvTuxedoBD.10314.1936731136.0:  Id de pelicula: [5]
+233621.localhost.localdomain!srvTuxedoBD.10314.1936731136.0:  nombrePeli : [Barbie]
+233621.localhost.localdomain!srvTuxedoBD.10314.1936731136.0:  DIRECTORPELI : [Greta_Gerwig]
+233621.localhost.localdomain!srvTuxedoBD.10314.1936731136.0:  ESTUDIODIR: [Warner_Bros]
+233621.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: Select exitoso
+233736.localhost.localdomain!srvTuxedoBD.10314.1936731136.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+233739.localhost.localdomain!BBL.10311.3259728320.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+234217.localhost.localdomain!BBL.10823.3501347264.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+234217.localhost.localdomain!BBL.10823.3501347264.0: LIBTUX_CAT:262: INFO: Standard main starting
+234217.localhost.localdomain!srvTuxedoBD.10827.522697728.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+234217.localhost.localdomain!srvTuxedoBD.10827.522697728.0: LIBTUX_CAT:262: INFO: Standard main starting
+234217.localhost.localdomain!srvTuxedoBD.10827.522697728.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+234228.localhost.localdomain!srvTuxedoBD.10827.522697728.0: Servicio select_Negocio_FML Invocado
+234228.localhost.localdomain!srvTuxedoBD.10827.522697728.0: Buscar pelicula por ID: [1]
+234228.localhost.localdomain!srvTuxedoBD.10827.522697728.0: Conectando a la BD
+234228.localhost.localdomain!srvTuxedoBD.10827.522697728.0:  Id de pelicula: [1]
+234228.localhost.localdomain!srvTuxedoBD.10827.522697728.0:  nombrePeli : [Your_Name]
+234228.localhost.localdomain!srvTuxedoBD.10827.522697728.0:  DIRECTORPELI : [Makoto_Shinkai]
+234228.localhost.localdomain!srvTuxedoBD.10827.522697728.0:  ESTUDIODIR: [CoMix_Wave]
+234228.localhost.localdomain!srvTuxedoBD.10827.522697728.0: Select exitoso
+234313.localhost.localdomain!srvTuxedoBD.10827.522697728.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+234316.localhost.localdomain!BBL.10823.3501347264.0: CMDTUX_CAT:26: INFO: The BBL is exiting system

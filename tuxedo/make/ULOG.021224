@@ -1,0 +1,4 @@
+050627.localhost.localdomain!tmshutdown.28499.986317248.-2: 02-12-2024: client high water (), total client ()              
+050627.localhost.localdomain!tmshutdown.28499.986317248.-2: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+050627.localhost.localdomain!tmshutdown.28499.986317248.-2: LIBTUX_CAT:334: ERROR: No BBL
+050627.localhost.localdomain!tmshutdown.28499.986317248.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB

@@ -1,0 +1,354 @@
+003018.localhost.localdomain!BBL.14441.3248128448.0: 02-12-2024: client high water (0), total client (0)
+003018.localhost.localdomain!BBL.14441.3248128448.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+003018.localhost.localdomain!BBL.14441.3248128448.0: LIBTUX_CAT:262: INFO: Standard main starting
+003018.localhost.localdomain!srvTuxedoBD.14443.4204018688.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+003018.localhost.localdomain!srvTuxedoBD.14443.4204018688.0: LIBTUX_CAT:262: INFO: Standard main starting
+003018.localhost.localdomain!srvTuxedoBD.14443.4204018688.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+003249.localhost.localdomain!srvTuxedoBD.14443.4204018688.0: Servicio insert_Negocio_FML Invocado
+003249.localhost.localdomain!srvTuxedoBD.14443.4204018688.0: Error Fget32(CODIGO): LIBFML_CAT:4: ERROR: Field not present
+003426.localhost.localdomain!srvTuxedoBD.14443.4204018688.0: Servicio insert_Negocio_FML Invocado
+003426.localhost.localdomain!srvTuxedoBD.14443.4204018688.0: Error Fget32(CODIGO): LIBFML_CAT:4: ERROR: Field not present
+003616.localhost.localdomain!srvTuxedoBD.14443.4204018688.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+003619.localhost.localdomain!BBL.14441.3248128448.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+003628.localhost.localdomain!tmloadcf.14894.2320318912.-2: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+003628.localhost.localdomain!tmloadcf.14894.2320318912.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+003706.localhost.localdomain!BBL.15064.2255405504.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+003706.localhost.localdomain!BBL.15064.2255405504.0: LIBTUX_CAT:262: INFO: Standard main starting
+003706.localhost.localdomain!srvTuxedoBD.15066.2322463744.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+003706.localhost.localdomain!srvTuxedoBD.15066.2322463744.0: LIBTUX_CAT:262: INFO: Standard main starting
+003706.localhost.localdomain!srvTuxedoBD.15066.2322463744.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+003744.localhost.localdomain!srvTuxedoBD.15066.2322463744.0: Servicio insert_Negocio_FML Invocado
+003744.localhost.localdomain!srvTuxedoBD.15066.2322463744.0: Error Fget32(CODIGO): LIBFML_CAT:4: ERROR: Field not present
+003849.localhost.localdomain!srvTuxedoBD.15066.2322463744.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+003852.localhost.localdomain!BBL.15064.2255405504.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+003918.localhost.localdomain!BBL.15252.2007986624.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+003918.localhost.localdomain!BBL.15252.2007986624.0: LIBTUX_CAT:262: INFO: Standard main starting
+003918.localhost.localdomain!srvTuxedoBD.15257.918440960.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+003918.localhost.localdomain!srvTuxedoBD.15257.918440960.0: LIBTUX_CAT:262: INFO: Standard main starting
+003918.localhost.localdomain!srvTuxedoBD.15257.918440960.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+003950.localhost.localdomain!srvTuxedoBD.15257.918440960.0: Servicio insert_Negocio_FML Invocado
+003950.localhost.localdomain!srvTuxedoBD.15257.918440960.0:  IDDIR: [7]
+003950.localhost.localdomain!srvTuxedoBD.15257.918440960.0: nombreDir : [Quentin_Tarantino]
+003950.localhost.localdomain!srvTuxedoBD.15257.918440960.0:  nacionalidad: [Estadounidense]
+003950.localhost.localdomain!srvTuxedoBD.15257.918440960.0:  estudioDir : [INDP]
+003950.localhost.localdomain!srvTuxedoBD.15257.918440960.0: Conectando a la BD
+003950.localhost.localdomain!srvTuxedoBD.15257.918440960.0: Insert exitoso
+004501.localhost.localdomain!BBL.15751.1673527744.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+004501.localhost.localdomain!BBL.15751.1673527744.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+004501.localhost.localdomain!BBL.15751.1673527744.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+004501.localhost.localdomain!BBL.15751.1673527744.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+004501.localhost.localdomain!srvTuxedoBD.15752.178834432.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+004501.localhost.localdomain!srvTuxedoBD.15752.178834432.0: LIBTUX_CAT:223: WARN: Duplicate server
+004501.localhost.localdomain!srvTuxedoBD.15752.178834432.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+004628.localhost.localdomain!srvTuxedoBD.15257.918440960.0: Servicio insert_Negocio_FML Invocado
+004628.localhost.localdomain!srvTuxedoBD.15257.918440960.0: Error Fget32(CODIGO): LIBFML_CAT:4: ERROR: Field not present
+004720.localhost.localdomain!srvTuxedoBD.15257.918440960.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+004723.localhost.localdomain!BBL.15252.2007986624.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+004733.localhost.localdomain!BBL.15970.784396736.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+004733.localhost.localdomain!BBL.15970.784396736.0: LIBTUX_CAT:262: INFO: Standard main starting
+004733.localhost.localdomain!srvTuxedoBD.15973.202804224.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+004733.localhost.localdomain!srvTuxedoBD.15973.202804224.0: LIBTUX_CAT:262: INFO: Standard main starting
+004733.localhost.localdomain!srvTuxedoBD.15973.202804224.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+004755.localhost.localdomain!srvTuxedoBD.15973.202804224.0: Servicio insert_Negocio_FML Invocado
+004755.localhost.localdomain!srvTuxedoBD.15973.202804224.0: Error Fget32(CODIGO): LIBFML_CAT:4: ERROR: Field not present
+005221.localhost.localdomain!srvTuxedoBD.15973.202804224.0: Servicio insert_Negocio_FML Invocado
+005221.localhost.localdomain!srvTuxedoBD.15973.202804224.0: Error Fget32(CODIGO): LIBFML_CAT:4: ERROR: Field not present
+005834.localhost.localdomain!BBL.16844.597193152.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+005834.localhost.localdomain!BBL.16844.597193152.0: LIBTUX_CAT:577: ERROR: Unable to register because the slot is already owned by another process
+005834.localhost.localdomain!BBL.16844.597193152.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+005834.localhost.localdomain!BBL.16844.597193152.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+005834.localhost.localdomain!srvTuxedoBD.16845.601848832.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+005834.localhost.localdomain!srvTuxedoBD.16845.601848832.0: LIBTUX_CAT:223: WARN: Duplicate server
+005834.localhost.localdomain!srvTuxedoBD.16845.601848832.0: LIBTUX_CAT:248: ERROR: System init function failed, Uunixerr = 
+005845.localhost.localdomain!srvTuxedoBD.15973.202804224.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+005848.localhost.localdomain!BBL.15970.784396736.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+005858.localhost.localdomain!BBL.16885.1785463232.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+005858.localhost.localdomain!BBL.16885.1785463232.0: LIBTUX_CAT:262: INFO: Standard main starting
+005858.localhost.localdomain!srvTuxedoBD.16895.4029049856.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+005858.localhost.localdomain!srvTuxedoBD.16895.4029049856.0: LIBTUX_CAT:262: INFO: Standard main starting
+005858.localhost.localdomain!srvTuxedoBD.16895.4029049856.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+010005.localhost.localdomain!srvTuxedoBD.16895.4029049856.0: Servicio insert_Negocio_FML Invocado
+010005.localhost.localdomain!srvTuxedoBD.16895.4029049856.0:  IDDIR: [6]
+010005.localhost.localdomain!srvTuxedoBD.16895.4029049856.0: titulo : [Interstellar]
+010005.localhost.localdomain!srvTuxedoBD.16895.4029049856.0: director: [Christopher_Nolan]
+010005.localhost.localdomain!srvTuxedoBD.16895.4029049856.0:  estudioDir : [Universal]
+010005.localhost.localdomain!srvTuxedoBD.16895.4029049856.0: Conectando a la BD
+010058.localhost.localdomain!BBL.16885.1785463232.0: LIBTUX_CAT:541: WARN: Server BIBLIO/10 terminated
+010058.localhost.localdomain!BBL.16885.1785463232.0: LIBTUX_CAT:557: INFO: Server BIBLIO/10 being restarted
+010058.localhost.localdomain!srvTuxedoBD.17112.3455208448.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+010058.localhost.localdomain!srvTuxedoBD.17112.3455208448.0: LIBTUX_CAT:262: INFO: Standard main starting
+010058.localhost.localdomain!srvTuxedoBD.17112.3455208448.0: LIBTUX_CAT:476: WARN: Server 10/10: client process 16958: lost message
+010058.localhost.localdomain!srvTuxedoBD.17112.3455208448.0: LIBTUX_CAT:478: WARN: SERVICE=insert_Negocio_FML    MSG_ID=0    REASON=server and client died
+010058.localhost.localdomain!srvTuxedoBD.17112.3455208448.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+010058.localhost.localdomain!restartsrv.17111.933503424.-2: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+010058.localhost.localdomain!restartsrv.17111.933503424.-2: server BIBLIO/10: CMDTUX_CAT:580: INFO: A server process has restarted: 17112
+010258.localhost.localdomain!BBL.16885.1785463232.0: LIBTUX_CAT:216: WARN: Process 16958 died; removing from BB
+010336.localhost.localdomain!srvTuxedoBD.17112.3455208448.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+010339.localhost.localdomain!BBL.16885.1785463232.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+010348.localhost.localdomain!BBL.17421.2135220672.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+010348.localhost.localdomain!BBL.17421.2135220672.0: LIBTUX_CAT:262: INFO: Standard main starting
+010348.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+010348.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: LIBTUX_CAT:262: INFO: Standard main starting
+010348.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+010440.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: Servicio insert_Negocio_FML Invocado
+010440.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: IDPELI: [6]
+010440.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: titulo : [Interstellar]
+010440.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: director: [Christopher_Nolan]
+010440.localhost.localdomain!srvTuxedoBD.17423.4285795328.0:  estudioDir : [Universal]
+010440.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: Conectando a la BD
+010440.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: insertanding
+010440.localhost.localdomain!srvTuxedoBD.17423.4285795328.0: acabanding
+010548.localhost.localdomain!BBL.17421.2135220672.0: LIBTUX_CAT:541: WARN: Server BIBLIO/10 terminated
+010548.localhost.localdomain!BBL.17421.2135220672.0: LIBTUX_CAT:557: INFO: Server BIBLIO/10 being restarted
+010548.localhost.localdomain!srvTuxedoBD.17638.3604892672.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+010548.localhost.localdomain!srvTuxedoBD.17638.3604892672.0: LIBTUX_CAT:262: INFO: Standard main starting
+010548.localhost.localdomain!srvTuxedoBD.17638.3604892672.0: LIBTUX_CAT:476: WARN: Server 10/10: client process 17443: lost message
+010548.localhost.localdomain!srvTuxedoBD.17638.3604892672.0: LIBTUX_CAT:478: WARN: SERVICE=insert_Negocio_FML    MSG_ID=0    REASON=server and client died
+010548.localhost.localdomain!srvTuxedoBD.17638.3604892672.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+010548.localhost.localdomain!restartsrv.17637.2795766208.-2: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+010548.localhost.localdomain!restartsrv.17637.2795766208.-2: server BIBLIO/10: CMDTUX_CAT:580: INFO: A server process has restarted: 17638
+010654.localhost.localdomain!srvTuxedoBD.17638.3604892672.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+010657.localhost.localdomain!BBL.17421.2135220672.0: LIBTUX_CAT:216: WARN: Process 17443 died; removing from BB
+010657.localhost.localdomain!BBL.17421.2135220672.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+010706.localhost.localdomain!BBL.17791.1108951488.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+010706.localhost.localdomain!BBL.17791.1108951488.0: LIBTUX_CAT:262: INFO: Standard main starting
+010706.localhost.localdomain!srvTuxedoBD.17793.248441856.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+010706.localhost.localdomain!srvTuxedoBD.17793.248441856.0: LIBTUX_CAT:262: INFO: Standard main starting
+010706.localhost.localdomain!srvTuxedoBD.17793.248441856.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+010729.localhost.localdomain!srvTuxedoBD.17793.248441856.0: Servicio insert_Negocio_FML Invocado
+010729.localhost.localdomain!srvTuxedoBD.17793.248441856.0: IDPELI: [6]
+010729.localhost.localdomain!srvTuxedoBD.17793.248441856.0: titulo : [Interstellar]
+010729.localhost.localdomain!srvTuxedoBD.17793.248441856.0: director: [Christopher_Nolan]
+010729.localhost.localdomain!srvTuxedoBD.17793.248441856.0:  estudioDir : [Universal]
+010729.localhost.localdomain!srvTuxedoBD.17793.248441856.0: Conectando a la BD
+010729.localhost.localdomain!srvTuxedoBD.17793.248441856.0: insertanding
+010729.localhost.localdomain!srvTuxedoBD.17793.248441856.0: acabanding
+010906.localhost.localdomain!BBL.17791.1108951488.0: LIBTUX_CAT:541: WARN: Server BIBLIO/10 terminated
+010906.localhost.localdomain!BBL.17791.1108951488.0: LIBTUX_CAT:557: INFO: Server BIBLIO/10 being restarted
+010906.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+010906.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: LIBTUX_CAT:262: INFO: Standard main starting
+010906.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: LIBTUX_CAT:476: WARN: Server 10/10: client process 17803: lost message
+010906.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: LIBTUX_CAT:477: WARN: SERVICE=insert_Negocio_FML    MSG_ID=0    REASON=server died
+010906.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: ERROR: msgsnd err:(LIBTUX_CAT:669: ERROR: Message operation failed because of the invalid message queue identifier) errno=22,qid=98304,buf=7927976,bytes=325,flag=2048
+010906.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+010906.localhost.localdomain!restartsrv.17958.3099378112.-2: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+010906.localhost.localdomain!restartsrv.17958.3099378112.-2: server BIBLIO/10: CMDTUX_CAT:580: INFO: A server process has restarted: 17959
+011056.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: Servicio insert_Negocio_FML Invocado
+011056.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: IDPELI: [6]
+011056.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: titulo : [Interstellar]
+011056.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: director: [Christopher_Nolan]
+011056.localhost.localdomain!srvTuxedoBD.17959.4273658880.0:  estudioDir : [Universal]
+011056.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: Conectando a la BD
+011056.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: insertanding
+011056.localhost.localdomain!srvTuxedoBD.17959.4273658880.0: acabanding
+011106.localhost.localdomain!BBL.17791.1108951488.0: LIBTUX_CAT:541: WARN: Server BIBLIO/10 terminated
+011106.localhost.localdomain!BBL.17791.1108951488.0: LIBTUX_CAT:550: WARN: Cleaning up restartable server BIBLIO/10
+011106.localhost.localdomain!cleanupsrv.18182.1708704192.-2: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+011106.localhost.localdomain!cleanupsrv.18182.1708704192.-2: ERROR: msgrcv err(LIBTUX_CAT:669: ERROR: Message operation failed because of the invalid message queue identifier): errno=22,qid=-1,buf=28171880,bytes=4712,type=-1073741824,flag=2048
+011106.localhost.localdomain!cleanupsrv.18182.1708704192.-2: server BIBLIO/10: CMDTUX_CAT:551: INFO: server removed
+011150.localhost.localdomain!BBL.17791.1108951488.0: LIBTUX_CAT:216: WARN: Process 17959 died; removing from BB
+011150.localhost.localdomain!BBL.17791.1108951488.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+011716.localhost.localdomain!BBL.4338.1579495872.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+011716.localhost.localdomain!BBL.4338.1579495872.0: LIBTUX_CAT:262: INFO: Standard main starting
+011716.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+011716.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: LIBTUX_CAT:262: INFO: Standard main starting
+011716.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+011753.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: Servicio insert_Negocio_FML Invocado
+011753.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: IDPELI: [6]
+011753.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: titulo : [Interstellar]
+011753.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: director: [Christopher_Nolan]
+011753.localhost.localdomain!srvTuxedoBD.4341.1942268928.0:  estudioDir : [Universal]
+011753.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: Conectando a la BD
+011753.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: insertanding
+011753.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: acabanding
+011753.localhost.localdomain!srvTuxedoBD.4341.1942268928.0: Error SQL: ORA-00904: "ESTUDIODIR": identificador no valido
+                     
+011916.localhost.localdomain!BBL.4338.1579495872.0: LIBTUX_CAT:541: WARN: Server BIBLIO/10 terminated
+011916.localhost.localdomain!BBL.4338.1579495872.0: LIBTUX_CAT:557: INFO: Server BIBLIO/10 being restarted
+011916.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+011916.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: LIBTUX_CAT:262: INFO: Standard main starting
+011916.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: LIBTUX_CAT:476: WARN: Server 10/10: client process 4354: lost message
+011916.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: LIBTUX_CAT:478: WARN: SERVICE=insert_Negocio_FML    MSG_ID=0    REASON=server and client died
+011916.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+011916.localhost.localdomain!restartsrv.4503.2568528320.-2: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+011916.localhost.localdomain!restartsrv.4503.2568528320.-2: server BIBLIO/10: CMDTUX_CAT:580: INFO: A server process has restarted: 4504
+011959.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: Servicio select_Negocio_FML Invocado
+011959.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: Buscar pelicula por ID: [1]
+011959.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: Conectando a la BD
+011959.localhost.localdomain!srvTuxedoBD.4504.1251122176.0:  Id de pelicula: [1]
+011959.localhost.localdomain!srvTuxedoBD.4504.1251122176.0:  nombrePeli : [Your_Name]
+011959.localhost.localdomain!srvTuxedoBD.4504.1251122176.0:  DIRECTORPELI : [Makoto_Shinkai]
+011959.localhost.localdomain!srvTuxedoBD.4504.1251122176.0:  ESTUDIODIR: [CoMix_Wave]
+011959.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: Select exitoso
+012247.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: Servicio insert_Negocio_FML Invocado
+012247.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: IDPELI: [6]
+012247.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: titulo : [Interstellar]
+012247.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: director: [Christopher_Nolan]
+012247.localhost.localdomain!srvTuxedoBD.4504.1251122176.0:  estudioDir : [Universal]
+012247.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: Conectando a la BD
+012247.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: insertanding
+012247.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: acabanding
+012247.localhost.localdomain!srvTuxedoBD.4504.1251122176.0: Error SQL: ORA-00904: "ESTUDIODIR": identificador no valido
+                     
+012316.localhost.localdomain!BBL.4338.1579495872.0: LIBTUX_CAT:541: WARN: Server BIBLIO/10 terminated
+012316.localhost.localdomain!BBL.4338.1579495872.0: LIBTUX_CAT:550: WARN: Cleaning up restartable server BIBLIO/10
+012316.localhost.localdomain!cleanupsrv.4940.3809919424.-2: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+012316.localhost.localdomain!cleanupsrv.4940.3809919424.-2: server BIBLIO/10: CMDTUX_CAT:1074: WARN: Client process 4840 - dropped message because server and client died, SERVICE=insert_Negocio_FML
+012316.localhost.localdomain!cleanupsrv.4940.3809919424.-2: ERROR: msgrcv err(LIBTUX_CAT:669: ERROR: Message operation failed because of the invalid message queue identifier): errno=22,qid=-1,buf=34995816,bytes=4712,type=-1073741824,flag=2048
+012316.localhost.localdomain!cleanupsrv.4940.3809919424.-2: server BIBLIO/10: CMDTUX_CAT:551: INFO: server removed
+012455.localhost.localdomain!BBL.4338.1579495872.0: LIBTUX_CAT:216: WARN: Process 4504 died; removing from BB
+012455.localhost.localdomain!BBL.4338.1579495872.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+012508.localhost.localdomain!BBL.5142.3187655104.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+012508.localhost.localdomain!BBL.5142.3187655104.0: LIBTUX_CAT:262: INFO: Standard main starting
+012508.localhost.localdomain!srvTuxedoBD.5145.50666496.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+012508.localhost.localdomain!srvTuxedoBD.5145.50666496.0: LIBTUX_CAT:262: INFO: Standard main starting
+012508.localhost.localdomain!srvTuxedoBD.5145.50666496.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+012608.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Servicio select_Negocio_FML Invocado
+012608.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Buscar pelicula por ID: [2]
+012608.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Conectando a la BD
+012608.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  Id de pelicula: [2]
+012608.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  nombrePeli : [Avatar_2]
+012608.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  DIRECTORPELI : [James_Cameron]
+012608.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  ESTUDIODIR: [Disney]
+012608.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Select exitoso
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Servicio insert_Negocio_FML Invocado
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: IDPELI: [6]
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: titulo : [Interstellar]
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: director: [Christopher_Nolan]
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: estudioDir : [Universal]
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Conectando a la BD
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: insertanding
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: acabanding
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: salimos del if
+012627.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Insert exitoso
+012840.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Servicio select_Negocio_FML Invocado
+012840.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Buscar pelicula por ID: [4]
+012840.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Conectando a la BD
+012840.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  Id de pelicula: [4]
+012840.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  nombrePeli : [Cars]
+012840.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  DIRECTORPELI : [John_Lasseter]
+012840.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  ESTUDIODIR: [Pixar]
+012840.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Select exitoso
+012844.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Servicio select_Negocio_FML Invocado
+012844.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Buscar pelicula por ID: [6]
+012844.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Conectando a la BD
+012844.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  Id de pelicula: [6]
+012844.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  nombrePeli : [Interstellar]
+012844.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  DIRECTORPELI : [Christopher_Nolan]
+012844.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  ESTUDIODIR: [Universal]
+012844.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Select exitoso
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Servicio insert_Negocio_FML Invocado
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: IDPELI: [7]
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: titulo : [Arrival]
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: director: [Denis Villeneuve]
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: estudioDir : [Paramount]
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Conectando a la BD
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: insertanding
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: acabanding
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: salimos del if
+013304.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Insert exitoso
+013333.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Servicio select_Negocio_FML Invocado
+013333.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Buscar pelicula por ID: [7]
+013333.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Conectando a la BD
+013333.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  Id de pelicula: [7]
+013333.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  nombrePeli : [Arrival]
+013333.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  DIRECTORPELI : [Denis Villeneuve]
+013333.localhost.localdomain!srvTuxedoBD.5145.50666496.0:  ESTUDIODIR: [Paramount]
+013333.localhost.localdomain!srvTuxedoBD.5145.50666496.0: Select exitoso
+014158.localhost.localdomain!srvTuxedoBD.5145.50666496.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+014201.localhost.localdomain!BBL.5142.3187655104.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+024226.localhost.localdomain!BBL.10848.481608128.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+024226.localhost.localdomain!BBL.10848.481608128.0: LIBTUX_CAT:262: INFO: Standard main starting
+024226.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+024226.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: LIBTUX_CAT:262: INFO: Standard main starting
+024226.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+024336.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Servicio update_Negocio_FML Invocado
+024336.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: IDPELI: [7]
+024336.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: titulo : [Dune]
+024336.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: director: [Denis_Villeneuve]
+024336.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: estudioDir : [Paramount]
+024336.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Conectando a la BD
+024336.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Update hecho
+024336.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Update exitoso
+024341.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Servicio select_Negocio_FML Invocado
+024341.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Buscar pelicula por ID: [0]
+024341.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Conectando a la BD
+024341.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Select exitoso
+024351.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Servicio select_Negocio_FML Invocado
+024351.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Buscar pelicula por ID: [7]
+024351.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Conectando a la BD
+024351.localhost.localdomain!srvTuxedoBD.10851.1064868864.0:  Id de pelicula: [7]
+024351.localhost.localdomain!srvTuxedoBD.10851.1064868864.0:  nombrePeli : [Dune]
+024351.localhost.localdomain!srvTuxedoBD.10851.1064868864.0:  DIRECTORPELI : [Denis_Villeneuve]
+024351.localhost.localdomain!srvTuxedoBD.10851.1064868864.0:  ESTUDIODIR: [Paramount]
+024351.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: Select exitoso
+024406.localhost.localdomain!srvTuxedoBD.10851.1064868864.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+024409.localhost.localdomain!BBL.10848.481608128.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+032520.localhost.localdomain!BBL.20799.3748045248.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+032520.localhost.localdomain!BBL.20799.3748045248.0: LIBTUX_CAT:262: INFO: Standard main starting
+032520.localhost.localdomain!srvTuxedoBD.20802.3076377600.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+032520.localhost.localdomain!srvTuxedoBD.20802.3076377600.0: LIBTUX_CAT:262: INFO: Standard main starting
+032520.localhost.localdomain!srvTuxedoBD.20802.3076377600.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+032607.localhost.localdomain!srvTuxedoBD.20802.3076377600.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+032610.localhost.localdomain!BBL.20799.3748045248.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+032827.localhost.localdomain!BBL.21068.3240767936.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+032827.localhost.localdomain!BBL.21068.3240767936.0: LIBTUX_CAT:262: INFO: Standard main starting
+032827.localhost.localdomain!srvTuxedoBD.21070.2491853824.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+032827.localhost.localdomain!srvTuxedoBD.21070.2491853824.0: LIBTUX_CAT:262: INFO: Standard main starting
+032827.localhost.localdomain!srvTuxedoBD.21070.2491853824.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+033501.localhost.localdomain!srvTuxedoBD.21070.2491853824.0: Servicio select_Negocio_FML Invocado
+033501.localhost.localdomain!srvTuxedoBD.21070.2491853824.0: Eliminar pelicula por ID: [7]
+033501.localhost.localdomain!srvTuxedoBD.21070.2491853824.0: Conectando a la BD
+033501.localhost.localdomain!srvTuxedoBD.21070.2491853824.0: Delete exitoso
+043202.localhost.localdomain!srvTuxedoBD.21070.2491853824.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+043205.localhost.localdomain!BBL.21068.3240767936.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+050848.localhost.localdomain!tmloadcf.28782.3753378240.-2: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+050848.localhost.localdomain!tmloadcf.28782.3753378240.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+050900.localhost.localdomain!BBL.28800.519569856.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+050900.localhost.localdomain!BBL.28800.519569856.0: LIBTUX_CAT:262: INFO: Standard main starting
+050900.localhost.localdomain!srvTuxedoBD.28802.581876736.0: 02-12-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+050900.localhost.localdomain!srvTuxedoBD.28802.581876736.0: LIBTUX_CAT:262: INFO: Standard main starting
+050900.localhost.localdomain!srvTuxedoBD.28802.581876736.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+050923.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Servicio selectAll_Negocio_FML Invocado
+050923.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Conectando a la BD
+050923.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Id: 1, Titulo: Your_Name, Director: Makoto_Shinkai, Estudio: CoMix_Wave
+050923.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Id: 2, Titulo: Avatar_2, Director: Disney, Estudio: James_Cameron
+050923.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Id: 3, Titulo: Oppenheimer, Director: Universal, Estudio: Christopher_Nolan
+050923.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Id: 4, Titulo: Cars, Director: Pixar, Estudio: John_Lasseter
+050923.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Id: 5, Titulo: Barbie, Director: Warner_Bros, Estudio: Greta_Gerwig
+050923.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Id: 6, Titulo: Interstellar, Director: Universal, Estudio: Christopher_Nolan
+050923.localhost.localdomain!srvTuxedoBD.28802.581876736.0: SelectAll exitoso
+051001.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Servicio select_Negocio_FML Invocado
+051001.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Buscar pelicula por ID: [5]
+051001.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Conectando a la BD
+051001.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  Id de pelicula: [5]
+051001.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  nombrePeli : [Barbie]
+051001.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  DIRECTORPELI : [Greta_Gerwig]
+051001.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  ESTUDIODIR: [Warner_Bros]
+051001.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Select exitoso
+051027.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Servicio select_Negocio_FML Invocado
+051027.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Buscar pelicula por ID: [1]
+051027.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Conectando a la BD
+051027.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  Id de pelicula: [1]
+051027.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  nombrePeli : [Your_Name]
+051027.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  DIRECTORPELI : [Makoto_Shinkai]
+051027.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  ESTUDIODIR: [CoMix_Wave]
+051027.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Select exitoso
+051030.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Servicio select_Negocio_FML Invocado
+051030.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Buscar pelicula por ID: [3]
+051030.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Conectando a la BD
+051030.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  Id de pelicula: [3]
+051030.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  nombrePeli : [Oppenheimer]
+051030.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  DIRECTORPELI : [Christopher_Nolan]
+051030.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  ESTUDIODIR: [Universal]
+051030.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Select exitoso
+051033.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Servicio select_Negocio_FML Invocado
+051033.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Buscar pelicula por ID: [2]
+051033.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Conectando a la BD
+051033.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  Id de pelicula: [2]
+051033.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  nombrePeli : [Avatar_2]
+051033.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  DIRECTORPELI : [James_Cameron]
+051033.localhost.localdomain!srvTuxedoBD.28802.581876736.0:  ESTUDIODIR: [Disney]
+051033.localhost.localdomain!srvTuxedoBD.28802.581876736.0: Select exitoso
+051117.localhost.localdomain!srvTuxedoBD.28802.581876736.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+051120.localhost.localdomain!BBL.28800.519569856.0: CMDTUX_CAT:26: INFO: The BBL is exiting system

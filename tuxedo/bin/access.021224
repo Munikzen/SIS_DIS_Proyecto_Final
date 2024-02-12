@@ -1,0 +1,4 @@
+003950.localhost.localdomain!?proc.15326.184766912.0: total client (1), logon: NATIVE cltname () success
+003950.localhost.localdomain!?proc.15326.184766912.0: total client (1), logoff: NATIVE cltname () success
+010258.localhost.localdomain!BBL.16885.1785463232.0: total client (1), cleaned: NATIVE IP (), cltname () success
+010657.localhost.localdomain!BBL.17421.2135220672.0: total client (1), cleaned: NATIVE IP (), cltname () success
